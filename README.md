@@ -19,12 +19,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rahulpinto19/ds/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/rahulpinto19/ds/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/rahulpinto19/ds/tree/master/0876-hand-of-straights) |
 # Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulpinto19/ds/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rahulpinto19/ds/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/rahulpinto19/ds/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/rahulpinto19/ds/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/rahulpinto19/ds/tree/master/0876-hand-of-straights) |
@@ -42,3 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rahulpinto19/ds/tree/master/0523-continuous-subarray-sum) |
+# Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rahulpinto19/ds/tree/master/0011-container-with-most-water) |

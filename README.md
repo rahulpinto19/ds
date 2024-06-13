@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/rahulpinto19/ds/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/rahulpinto19/ds/tree/master/0523-continuous-subarray-sum) |
 # Prefix Sum
 |  |
@@ -64,3 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1137-height-checker](https://github.com/rahulpinto19/ds/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rahulpinto19/ds/tree/master/1217-relative-sort-array) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/rahulpinto19/ds/tree/master/0371-sum-of-two-integers) |

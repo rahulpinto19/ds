@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/rahulpinto19/ds/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rahulpinto19/ds/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rahulpinto19/ds/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/rahulpinto19/ds/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rahulpinto19/ds/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -257,4 +259,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rahulpinto19/ds/tree/master/0713-subarray-product-less-than-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->

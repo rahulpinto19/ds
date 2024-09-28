@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/rahulpinto19/ds/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/rahulpinto19/ds/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/rahulpinto19/ds/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rahulpinto19/ds/tree/master/1435-xor-queries-of-a-subarray) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/rahulpinto19/ds/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rahulpinto19/ds/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rahulpinto19/ds/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/rahulpinto19/ds/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/rahulpinto19/ds/tree/master/0859-design-circular-deque) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -297,4 +300,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/rahulpinto19/ds/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->

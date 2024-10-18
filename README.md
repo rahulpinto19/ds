@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rahulpinto19/ds/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rahulpinto19/ds/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/rahulpinto19/ds/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rahulpinto19/ds/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-spiral-matrix-iv](https://github.com/rahulpinto19/ds/tree/master/2411-spiral-matrix-iv) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rahulpinto19/ds/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rahulpinto19/ds/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/rahulpinto19/ds/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rahulpinto19/ds/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rahulpinto19/ds/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Counting
 |  |
 | ------- |
@@ -350,4 +352,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/rahulpinto19/ds/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rahulpinto19/ds/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rahulpinto19/ds/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rahulpinto19/ds/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->

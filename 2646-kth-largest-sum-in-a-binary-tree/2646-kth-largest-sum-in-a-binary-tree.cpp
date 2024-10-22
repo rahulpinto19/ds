@@ -30,8 +30,6 @@ public:
             }
             ans.push_back(sum);
         }    
-        for(auto x:ans)
-        cout<<x<<" ";
         sort(ans.begin(),ans.end());
         if(k>ans.size())
         return -1;

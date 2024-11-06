@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rahulpinto19/ds/tree/master/0069-sqrtx) |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rahulpinto19/ds/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/rahulpinto19/ds/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/rahulpinto19/ds/tree/master/1013-fibonacci-number) |

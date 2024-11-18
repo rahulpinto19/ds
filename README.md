@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/rahulpinto19/ds/tree/master/0179-largest-number) |
 | [0303-range-sum-query-immutable](https://github.com/rahulpinto19/ds/tree/master/0303-range-sum-query-immutable) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rahulpinto19/ds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/rahulpinto19/ds/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/rahulpinto19/ds/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rahulpinto19/ds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rahulpinto19/ds/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rahulpinto19/ds/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/rahulpinto19/ds/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rahulpinto19/ds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rahulpinto19/ds/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/rahulpinto19/ds/tree/master/1013-fibonacci-number) |
 | [2155-find-missing-observations](https://github.com/rahulpinto19/ds/tree/master/2155-find-missing-observations) |

@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/rahulpinto19/ds/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rahulpinto19/ds/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rahulpinto19/ds/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/rahulpinto19/ds/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/rahulpinto19/ds/tree/master/2411-spiral-matrix-iv) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulpinto19/ds/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rahulpinto19/ds/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/rahulpinto19/ds/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/rahulpinto19/ds/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rahulpinto19/ds/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/rahulpinto19/ds/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/rahulpinto19/ds/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rahulpinto19/ds/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Database
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rahulpinto19/ds/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rahulpinto19/ds/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/rahulpinto19/ds/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/rahulpinto19/ds/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table

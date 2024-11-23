@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/rahulpinto19/ds/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/rahulpinto19/ds/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/rahulpinto19/ds/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/rahulpinto19/ds/tree/master/1972-rotating-the-box) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/rahulpinto19/ds/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rahulpinto19/ds/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rahulpinto19/ds/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rahulpinto19/ds/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1972-rotating-the-box](https://github.com/rahulpinto19/ds/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rahulpinto19/ds/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rahulpinto19/ds/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/rahulpinto19/ds/tree/master/2411-spiral-matrix-iv) |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/rahulpinto19/ds/tree/master/0633-sum-of-square-numbers) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rahulpinto19/ds/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/rahulpinto19/ds/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/rahulpinto19/ds/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rahulpinto19/ds/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rahulpinto19/ds/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rahulpinto19/ds/tree/master/2699-count-the-number-of-fair-pairs) |

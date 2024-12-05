@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/rahulpinto19/ds/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rahulpinto19/ds/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/rahulpinto19/ds/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulpinto19/ds/tree/master/0628-maximum-product-of-three-numbers) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rahulpinto19/ds/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/rahulpinto19/ds/tree/master/0096-unique-binary-search-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rahulpinto19/ds/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rahulpinto19/ds/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/rahulpinto19/ds/tree/master/0096-unique-binary-search-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rahulpinto19/ds/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rahulpinto19/ds/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/rahulpinto19/ds/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/rahulpinto19/ds/tree/master/1013-fibonacci-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rahulpinto19/ds/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -516,4 +520,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rahulpinto19/ds/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/rahulpinto19/ds/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->

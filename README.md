@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulpinto19/ds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rahulpinto19/ds/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/rahulpinto19/ds/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/rahulpinto19/ds/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/rahulpinto19/ds/tree/master/0322-coin-change) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rahulpinto19/ds/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/rahulpinto19/ds/tree/master/1013-fibonacci-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rahulpinto19/ds/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rahulpinto19/ds/tree/master/2586-longest-square-streak-in-an-array) |

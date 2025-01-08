@@ -6,7 +6,8 @@ class Solution(object):
         n=numRows
         dir = 1
         pos = 0
-        
+        if(numRows == 1):
+            return s 
         for char in s:
             
             if(pos==0):
@@ -15,8 +16,5 @@ class Solution(object):
                 dir = -1
             rows[pos]+=(char)
             pos+=dir
-            if(pos<0):
-                pos = 0
-            if(pos == numRows):
-                pos = numRows-1
+           
         return ''.join(rows)

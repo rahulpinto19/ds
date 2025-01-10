@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/rahulpinto19/ds/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpinto19/ds/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/rahulpinto19/ds/tree/master/0039-combination-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rahulpinto19/ds/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/rahulpinto19/ds/tree/master/0179-largest-number) |
 | [0303-range-sum-query-immutable](https://github.com/rahulpinto19/ds/tree/master/0303-range-sum-query-immutable) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rahulpinto19/ds/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/rahulpinto19/ds/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/rahulpinto19/ds/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulpinto19/ds/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rahulpinto19/ds/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/rahulpinto19/ds/tree/master/0906-walking-robot-simulation) |

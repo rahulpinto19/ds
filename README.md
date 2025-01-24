@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rahulpinto19/ds/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/rahulpinto19/ds/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rahulpinto19/ds/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/rahulpinto19/ds/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/rahulpinto19/ds/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/rahulpinto19/ds/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1484-linked-list-in-binary-tree) |
@@ -650,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/rahulpinto19/ds/tree/master/3189-find-champion-ii) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/rahulpinto19/ds/tree/master/3655-digit-operations-to-make-two-integers-equal) |
@@ -682,4 +685,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rahulpinto19/ds/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

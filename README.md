@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/rahulpinto19/ds/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rahulpinto19/ds/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/rahulpinto19/ds/tree/master/0787-sliding-puzzle) |
+| [0816-design-hashset](https://github.com/rahulpinto19/ds/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/rahulpinto19/ds/tree/master/0859-design-circular-deque) |
 | [0878-shifting-letters](https://github.com/rahulpinto19/ds/tree/master/0878-shifting-letters) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
+| [0816-design-hashset](https://github.com/rahulpinto19/ds/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/rahulpinto19/ds/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1484-linked-list-in-binary-tree) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/rahulpinto19/ds/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0816-design-hashset](https://github.com/rahulpinto19/ds/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
 | [0906-walking-robot-simulation](https://github.com/rahulpinto19/ds/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rahulpinto19/ds/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/rahulpinto19/ds/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
+| [0816-design-hashset](https://github.com/rahulpinto19/ds/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/rahulpinto19/ds/tree/master/0859-design-circular-deque) |
 ## Prefix Sum
@@ -687,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/rahulpinto19/ds/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulpinto19/ds/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser

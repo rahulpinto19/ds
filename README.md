@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/rahulpinto19/ds/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/rahulpinto19/ds/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/rahulpinto19/ds/tree/master/0812-rotate-string) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahulpinto19/ds/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rahulpinto19/ds/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/rahulpinto19/ds/tree/master/0733-flood-fill) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/rahulpinto19/ds/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rahulpinto19/ds/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -421,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/rahulpinto19/ds/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
@@ -490,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahulpinto19/ds/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rahulpinto19/ds/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |
@@ -508,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahulpinto19/ds/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rahulpinto19/ds/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |

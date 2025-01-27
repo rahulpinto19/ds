@@ -11,27 +11,30 @@
  */
 class Solution {
 public:
-    vector<int>arr;int i = 0;
-    void Inorder(TreeNode*root)
-    {
+   TreeNode*first= NULL,*second= NULL,*prev= NULL;
+   
 
-        if(!root) return;
+void help(TreeNode*root)
+{
+    if(!root) return ;
 
-        Inorder(root->left);
-        arr.push_back(root->val);
-        Inorder(root->right);
-    }
-    void putValues(TreeNode*root)
+    help(root->left);
+
+    if(prev and root->val <= prev->val)
     {
-        if(!root) return;
-        putValues(root->left);
-        root->val = arr[i++];
-        putValues(root->right);
+	    if(!first)
+	    first = prev;
+	    second = root;
     }
+    prev  = root;
+    help(root->right);
+}
+
     void recoverTree(TreeNode* root) 
     {
-        Inorder(root);
-        sort(arr.begin(),arr.end());
-        putValues(root);
+        help(root);    
+        int temp = first->val;
+        first->val = second->val;
+        second->val =temp;
     }
 };

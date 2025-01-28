@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/rahulpinto19/ds/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/rahulpinto19/ds/tree/master/2716-prime-subtraction-operation) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulpinto19/ds/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rahulpinto19/ds/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rahulpinto19/ds/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/rahulpinto19/ds/tree/master/2411-spiral-matrix-iv) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rahulpinto19/ds/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rahulpinto19/ds/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -420,11 +423,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rahulpinto19/ds/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rahulpinto19/ds/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/rahulpinto19/ds/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Design
 |  |
 | ------- |

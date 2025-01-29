@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/rahulpinto19/ds/tree/master/0179-largest-number) |
 | [0303-range-sum-query-immutable](https://github.com/rahulpinto19/ds/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/rahulpinto19/ds/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulpinto19/ds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rahulpinto19/ds/tree/master/0073-set-matrix-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/rahulpinto19/ds/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/rahulpinto19/ds/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/rahulpinto19/ds/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahulpinto19/ds/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rahulpinto19/ds/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/rahulpinto19/ds/tree/master/0684-redundant-connection) |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/rahulpinto19/ds/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/rahulpinto19/ds/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rahulpinto19/ds/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/rahulpinto19/ds/tree/master/0684-redundant-connection) |
@@ -601,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulpinto19/ds/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/rahulpinto19/ds/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rahulpinto19/ds/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rahulpinto19/ds/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/rahulpinto19/ds/tree/master/1013-fibonacci-number) |
@@ -622,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/rahulpinto19/ds/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
@@ -713,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/rahulpinto19/ds/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rahulpinto19/ds/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rahulpinto19/ds/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/rahulpinto19/ds/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -758,5 +765,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/rahulpinto19/ds/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rahulpinto19/ds/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

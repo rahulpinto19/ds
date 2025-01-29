@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/rahulpinto19/ds/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rahulpinto19/ds/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/rahulpinto19/ds/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/rahulpinto19/ds/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rahulpinto19/ds/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/rahulpinto19/ds/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/rahulpinto19/ds/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
@@ -680,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0744-network-delay-time](https://github.com/rahulpinto19/ds/tree/master/0744-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rahulpinto19/ds/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/rahulpinto19/ds/tree/master/1304-longest-happy-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rahulpinto19/ds/tree/master/2300-construct-string-with-repeat-limit) |
@@ -721,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/rahulpinto19/ds/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/rahulpinto19/ds/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/rahulpinto19/ds/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/rahulpinto19/ds/tree/master/3189-find-champion-ii) |
@@ -728,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/rahulpinto19/ds/tree/master/0744-network-delay-time) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/rahulpinto19/ds/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Binary Search Tree

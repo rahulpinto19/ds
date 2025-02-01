@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/rahulpinto19/ds/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpinto19/ds/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/rahulpinto19/ds/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/rahulpinto19/ds/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/rahulpinto19/ds/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulpinto19/ds/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rahulpinto19/ds/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/rahulpinto19/ds/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rahulpinto19/ds/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/rahulpinto19/ds/tree/master/1002-maximum-width-ramp) |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rahulpinto19/ds/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rahulpinto19/ds/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rahulpinto19/ds/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/rahulpinto19/ds/tree/master/0096-unique-binary-search-trees) |
@@ -703,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/rahulpinto19/ds/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpinto19/ds/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rahulpinto19/ds/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/rahulpinto19/ds/tree/master/0295-find-median-from-data-stream) |
 | [0633-sum-of-square-numbers](https://github.com/rahulpinto19/ds/tree/master/0633-sum-of-square-numbers) |
@@ -719,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rahulpinto19/ds/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rahulpinto19/ds/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/rahulpinto19/ds/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rahulpinto19/ds/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |

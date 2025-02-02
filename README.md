@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/rahulpinto19/ds/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/rahulpinto19/ds/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/rahulpinto19/ds/tree/master/0878-shifting-letters) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/rahulpinto19/ds/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rahulpinto19/ds/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0816-design-hashset](https://github.com/rahulpinto19/ds/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
@@ -636,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/rahulpinto19/ds/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rahulpinto19/ds/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -724,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/rahulpinto19/ds/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/rahulpinto19/ds/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/rahulpinto19/ds/tree/master/0633-sum-of-square-numbers) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rahulpinto19/ds/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rahulpinto19/ds/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |

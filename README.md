@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/rahulpinto19/ds/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/rahulpinto19/ds/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulpinto19/ds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -543,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rahulpinto19/ds/tree/master/0069-sqrtx) |
+| [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/rahulpinto19/ds/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
@@ -736,11 +738,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/rahulpinto19/ds/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
 | [2868-continuous-subarrays](https://github.com/rahulpinto19/ds/tree/master/2868-continuous-subarrays) |
@@ -860,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rahulpinto19/ds/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -895,4 +900,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulpinto19/ds/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulpinto19/ds/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/rahulpinto19/ds/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/rahulpinto19/ds/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/rahulpinto19/ds/tree/master/0859-design-circular-deque) |

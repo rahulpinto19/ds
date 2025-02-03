@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/rahulpinto19/ds/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rahulpinto19/ds/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/rahulpinto19/ds/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/rahulpinto19/ds/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulpinto19/ds/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/rahulpinto19/ds/tree/master/0139-word-break) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rahulpinto19/ds/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/rahulpinto19/ds/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/rahulpinto19/ds/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/rahulpinto19/ds/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
@@ -742,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/rahulpinto19/ds/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpinto19/ds/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rahulpinto19/ds/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/rahulpinto19/ds/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/rahulpinto19/ds/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |

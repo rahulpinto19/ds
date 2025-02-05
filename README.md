@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulpinto19/ds/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rahulpinto19/ds/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/rahulpinto19/ds/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/rahulpinto19/ds/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rahulpinto19/ds/tree/master/0140-word-break-ii) |

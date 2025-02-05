@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulpinto19/ds/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulpinto19/ds/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/rahulpinto19/ds/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rahulpinto19/ds/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpinto19/ds/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulpinto19/ds/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/rahulpinto19/ds/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulpinto19/ds/tree/master/0540-single-element-in-a-sorted-array) |
@@ -893,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulpinto19/ds/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulpinto19/ds/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0109-convert-sorted-list-to-binary-search-tree) |

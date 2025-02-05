@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/rahulpinto19/ds/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rahulpinto19/ds/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/rahulpinto19/ds/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/rahulpinto19/ds/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -797,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/rahulpinto19/ds/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rahulpinto19/ds/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/rahulpinto19/ds/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/rahulpinto19/ds/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/rahulpinto19/ds/tree/master/0633-sum-of-square-numbers) |

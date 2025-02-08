@@ -500,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/rahulpinto19/ds/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/rahulpinto19/ds/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/rahulpinto19/ds/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/rahulpinto19/ds/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rahulpinto19/ds/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/rahulpinto19/ds/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/rahulpinto19/ds/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/rahulpinto19/ds/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/rahulpinto19/ds/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rahulpinto19/ds/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/rahulpinto19/ds/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/rahulpinto19/ds/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/rahulpinto19/ds/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/rahulpinto19/ds/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/rahulpinto19/ds/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/rahulpinto19/ds/tree/master/1396-count-servers-that-communicate) |
@@ -920,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/rahulpinto19/ds/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/rahulpinto19/ds/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/rahulpinto19/ds/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/rahulpinto19/ds/tree/master/0820-find-eventual-safe-states) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/rahulpinto19/ds/tree/master/3189-find-champion-ii) |

@@ -1,32 +1,27 @@
 class Solution {
 public:
-    void change(vector<vector<int>>& array,int i,int j)
-    {
-        for(int l=0;l<array.size();l++)
-        {
-            array[l][j]=0;
-        }
-        for(int m=0;m<array[0].size();m++)
-        {
-            array[i][m]=0;
-        }
-    }
-    void setZeroes(vector<vector<int>>& matrix) 
-    {
-        vector<pair<int,int>> zeroes;
-        for(int i=0;i<matrix.size();i++)
-        {
-            for(int j=0;j<matrix[i].size();j++)
-            {
-                if(matrix[i][j]==0)
-                {
-                    zeroes.push_back({i,j});
-                }
+    void setZeroes(vector<vector<int>>& mat) {
+        int flag = 1;
+        for (int i = 0; i < mat.size(); i++) {
+            if (mat[i][0] == 0)
+                flag = 0;
+            for (int j = 1; j < mat[0].size(); j++) {
+                if (mat[i][j] == 0)
+                    mat[i][0] = mat[0][j] = 0;
             }
-        } 
-        for (auto p: zeroes)   
-        {
-            change(matrix,p.first,p.second); 
+        }
+        for (auto x : mat) {
+            for (auto y : x)
+                cout << y << " ";
+            cout << endl;
+        }
+        cout<<endl<<flag;
+        for (int i = mat.size() - 1; i >= 0; i--) {
+            for (int j = mat[0].size() - 1; j >= 1; j--) {
+                if(mat[i][0] == 0 || mat[0][j] == 0)
+                    mat[i][j] = 0;
+            }
+        if(flag == 0) mat[i][0] = 0;
         }
     }
 };

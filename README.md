@@ -656,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulpinto19/ds/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rahulpinto19/ds/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/rahulpinto19/ds/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rahulpinto19/ds/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rahulpinto19/ds/tree/master/0069-sqrtx) |
@@ -830,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulpinto19/ds/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rahulpinto19/ds/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/rahulpinto19/ds/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/rahulpinto19/ds/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/rahulpinto19/ds/tree/master/0394-decode-string) |

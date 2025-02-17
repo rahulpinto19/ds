@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulpinto19/ds/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/rahulpinto19/ds/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/rahulpinto19/ds/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahulpinto19/ds/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/rahulpinto19/ds/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
@@ -824,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulpinto19/ds/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/rahulpinto19/ds/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/rahulpinto19/ds/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/rahulpinto19/ds/tree/master/1013-fibonacci-number) |

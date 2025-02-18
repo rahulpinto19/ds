@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/rahulpinto19/ds/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/rahulpinto19/ds/tree/master/1025-minimum-cost-for-tickets) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpinto19/ds/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/rahulpinto19/ds/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rahulpinto19/ds/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rahulpinto19/ds/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/rahulpinto19/ds/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/rahulpinto19/ds/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/rahulpinto19/ds/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpinto19/ds/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rahulpinto19/ds/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rahulpinto19/ds/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rahulpinto19/ds/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0662-maximum-width-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpinto19/ds/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rahulpinto19/ds/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -738,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0662-maximum-width-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpinto19/ds/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rahulpinto19/ds/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -920,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/rahulpinto19/ds/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/rahulpinto19/ds/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/rahulpinto19/ds/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpinto19/ds/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rahulpinto19/ds/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rahulpinto19/ds/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
@@ -1010,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/rahulpinto19/ds/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahulpinto19/ds/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpinto19/ds/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |

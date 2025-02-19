@@ -18,6 +18,35 @@ public:
         int ans = 0;
         while(q.size())
         {
+            int size = q.size();
+            int minVal = q.front().second;
+            int i = minVal,j = minVal;
+            while(size--)
+            {
+                auto node = q.front();
+                q.pop();
+                j = node.second;
+                if(node.first->left)
+                {
+                    q.push({node.first->left, (2*(node.second - minVal))});
+                }
+                if(node.first->right)
+                {
+                    q.push({node.first->right, (2*(node.second - minVal) + 1)});
+                }
+            }
+            ans = max(ans,j-i+1);
+        }
+        return ans;
+    }
+};
+
+/*
+ queue<pair<TreeNode*,int>>q;
+        q.push({root,0});
+        int ans = 0;
+        while(q.size())
+        {
          
             int size = q.size();
             int firstIndex  = q.front().second;
@@ -25,7 +54,7 @@ public:
             while(size--)
             {
                 TreeNode*node = q.front().first;
-                long long num = q.front().second - firstIndex;
+                int num = q.front().second - firstIndex;
                 q.pop();
                 lastIndex = num;
                 if(node->left)
@@ -37,9 +66,7 @@ public:
                     q.push({node->right,(num*2) + 1});
                 }
             }
-            cout<<firstIndex<<" "<<lastIndex<<endl;
             ans = max(ans,lastIndex + 1);
         }    
         return ans;
-    }
-};
+*/ 

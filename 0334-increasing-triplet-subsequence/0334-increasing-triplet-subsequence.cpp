@@ -25,8 +25,8 @@ public:
 
         for(auto x:nums)
         {
-            if(first > x) first = x;
-            else if(second > x ) second = x;
+            if(first >= x) first = x;
+            else if(second >= x ) second = x;
             else return true;  
         }
         return false;

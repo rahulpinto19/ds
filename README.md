@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0878-shifting-letters](https://github.com/rahulpinto19/ds/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rahulpinto19/ds/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/rahulpinto19/ds/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/rahulpinto19/ds/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/rahulpinto19/ds/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/rahulpinto19/ds/tree/master/1002-maximum-width-ramp) |
@@ -671,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/rahulpinto19/ds/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rahulpinto19/ds/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/rahulpinto19/ds/tree/master/0907-koko-eating-bananas) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rahulpinto19/ds/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rahulpinto19/ds/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rahulpinto19/ds/tree/master/1886-minimum-limit-of-balls-in-a-bag) |

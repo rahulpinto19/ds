@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/rahulpinto19/ds/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahulpinto19/ds/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rahulpinto19/ds/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1580-shuffle-the-array](https://github.com/rahulpinto19/ds/tree/master/1580-shuffle-the-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rahulpinto19/ds/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rahulpinto19/ds/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rahulpinto19/ds/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |

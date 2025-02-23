@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rahulpinto19/ds/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/rahulpinto19/ds/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/rahulpinto19/ds/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rahulpinto19/ds/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rahulpinto19/ds/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/rahulpinto19/ds/tree/master/1002-maximum-width-ramp) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
 | [0906-walking-robot-simulation](https://github.com/rahulpinto19/ds/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rahulpinto19/ds/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rahulpinto19/ds/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rahulpinto19/ds/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -742,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/rahulpinto19/ds/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0662-maximum-width-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rahulpinto19/ds/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpinto19/ds/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -777,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/rahulpinto19/ds/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0662-maximum-width-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rahulpinto19/ds/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rahulpinto19/ds/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahulpinto19/ds/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpinto19/ds/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1083,6 +1087,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpinto19/ds/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/rahulpinto19/ds/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rahulpinto19/ds/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/rahulpinto19/ds/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Rolling Hash
 |  |

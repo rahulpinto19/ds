@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/rahulpinto19/ds/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/rahulpinto19/ds/tree/master/1803-average-waiting-time) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rahulpinto19/ds/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rahulpinto19/ds/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/rahulpinto19/ds/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/rahulpinto19/ds/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rahulpinto19/ds/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -885,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rahulpinto19/ds/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rahulpinto19/ds/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rahulpinto19/ds/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rahulpinto19/ds/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rahulpinto19/ds/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/rahulpinto19/ds/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rahulpinto19/ds/tree/master/2586-longest-square-streak-in-an-array) |

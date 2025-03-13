@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rahulpinto19/ds/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulpinto19/ds/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/rahulpinto19/ds/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/rahulpinto19/ds/tree/master/3643-zero-array-transformation-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rahulpinto19/ds/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/rahulpinto19/ds/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rahulpinto19/ds/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -683,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/rahulpinto19/ds/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/rahulpinto19/ds/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/rahulpinto19/ds/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/rahulpinto19/ds/tree/master/3643-zero-array-transformation-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rahulpinto19/ds/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/rahulpinto19/ds/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Binary Search
@@ -711,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/rahulpinto19/ds/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/rahulpinto19/ds/tree/master/2716-prime-subtraction-operation) |
 | [3427-special-array-ii](https://github.com/rahulpinto19/ds/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/rahulpinto19/ds/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |

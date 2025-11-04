@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rahulpinto19/ds/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
 | [0906-walking-robot-simulation](https://github.com/rahulpinto19/ds/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rahulpinto19/ds/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/rahulpinto19/ds/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rahulpinto19/ds/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulpinto19/ds/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/rahulpinto19/ds/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/rahulpinto19/ds/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rahulpinto19/ds/tree/master/0140-word-break-ii) |
@@ -721,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/rahulpinto19/ds/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rahulpinto19/ds/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rahulpinto19/ds/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/rahulpinto19/ds/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/rahulpinto19/ds/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rahulpinto19/ds/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |

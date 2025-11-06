@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/rahulpinto19/ds/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rahulpinto19/ds/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/rahulpinto19/ds/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
 | ------- |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rahulpinto19/ds/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rahulpinto19/ds/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/rahulpinto19/ds/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/rahulpinto19/ds/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rahulpinto19/ds/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -635,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2677-cousins-in-binary-tree-ii](https://github.com/rahulpinto19/ds/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -648,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/rahulpinto19/ds/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rahulpinto19/ds/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
 | ------- |
@@ -964,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/rahulpinto19/ds/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/rahulpinto19/ds/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/rahulpinto19/ds/tree/master/2868-continuous-subarrays) |
+| [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
@@ -1037,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rahulpinto19/ds/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulpinto19/ds/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/rahulpinto19/ds/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -1095,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rahulpinto19/ds/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/rahulpinto19/ds/tree/master/3189-find-champion-ii) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/rahulpinto19/ds/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |

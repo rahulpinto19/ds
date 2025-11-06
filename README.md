@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpinto19/ds/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/rahulpinto19/ds/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/rahulpinto19/ds/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/rahulpinto19/ds/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rahulpinto19/ds/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/rahulpinto19/ds/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/rahulpinto19/ds/tree/master/0322-coin-change) |
@@ -986,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/rahulpinto19/ds/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulpinto19/ds/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/rahulpinto19/ds/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/rahulpinto19/ds/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/rahulpinto19/ds/tree/master/0633-sum-of-square-numbers) |

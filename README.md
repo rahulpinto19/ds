@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpinto19/ds/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/rahulpinto19/ds/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/rahulpinto19/ds/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rahulpinto19/ds/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rahulpinto19/ds/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/rahulpinto19/ds/tree/master/0312-burst-balloons) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/rahulpinto19/ds/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpinto19/ds/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rahulpinto19/ds/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/rahulpinto19/ds/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/rahulpinto19/ds/tree/master/0324-wiggle-sort-ii) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/rahulpinto19/ds/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/rahulpinto19/ds/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/rahulpinto19/ds/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/rahulpinto19/ds/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -705,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/rahulpinto19/ds/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rahulpinto19/ds/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpinto19/ds/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulpinto19/ds/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rahulpinto19/ds/tree/master/0633-sum-of-square-numbers) |
@@ -739,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/rahulpinto19/ds/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/rahulpinto19/ds/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/rahulpinto19/ds/tree/master/0382-linked-list-random-node) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulpinto19/ds/tree/master/0628-maximum-product-of-three-numbers) |
@@ -840,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/rahulpinto19/ds/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/rahulpinto19/ds/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpinto19/ds/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulpinto19/ds/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rahulpinto19/ds/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rahulpinto19/ds/tree/master/1435-xor-queries-of-a-subarray) |

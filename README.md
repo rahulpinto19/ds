@@ -838,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/rahulpinto19/ds/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/rahulpinto19/ds/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpinto19/ds/tree/master/0222-count-complete-tree-nodes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulpinto19/ds/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rahulpinto19/ds/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -1135,6 +1136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/rahulpinto19/ds/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rahulpinto19/ds/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/rahulpinto19/ds/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpinto19/ds/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/rahulpinto19/ds/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |

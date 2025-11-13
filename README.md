@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/rahulpinto19/ds/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rahulpinto19/ds/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/rahulpinto19/ds/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/rahulpinto19/ds/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/rahulpinto19/ds/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/rahulpinto19/ds/tree/master/0322-coin-change) |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/rahulpinto19/ds/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpinto19/ds/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/rahulpinto19/ds/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/rahulpinto19/ds/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulpinto19/ds/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rahulpinto19/ds/tree/master/0633-sum-of-square-numbers) |
@@ -913,6 +915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/rahulpinto19/ds/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/rahulpinto19/ds/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/rahulpinto19/ds/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/rahulpinto19/ds/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/rahulpinto19/ds/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |

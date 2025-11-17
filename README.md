@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/rahulpinto19/ds/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/rahulpinto19/ds/tree/master/1025-minimum-cost-for-tickets) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/rahulpinto19/ds/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpinto19/ds/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/rahulpinto19/ds/tree/master/1073-number-of-enclaves) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/rahulpinto19/ds/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
 | [0537-complex-number-multiplication](https://github.com/rahulpinto19/ds/tree/master/0537-complex-number-multiplication) |
 | [0906-walking-robot-simulation](https://github.com/rahulpinto19/ds/tree/master/0906-walking-robot-simulation) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/rahulpinto19/ds/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rahulpinto19/ds/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/rahulpinto19/ds/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rahulpinto19/ds/tree/master/2006-find-the-student-that-will-replace-the-chalk) |

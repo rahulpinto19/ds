@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/rahulpinto19/ds/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
+| [0537-complex-number-multiplication](https://github.com/rahulpinto19/ds/tree/master/0537-complex-number-multiplication) |
 | [0906-walking-robot-simulation](https://github.com/rahulpinto19/ds/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rahulpinto19/ds/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/rahulpinto19/ds/tree/master/1803-average-waiting-time) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rahulpinto19/ds/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/rahulpinto19/ds/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rahulpinto19/ds/tree/master/0424-longest-repeating-character-replacement) |
+| [0537-complex-number-multiplication](https://github.com/rahulpinto19/ds/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/rahulpinto19/ds/tree/master/0678-valid-parenthesis-string) |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/rahulpinto19/ds/tree/master/0382-linked-list-random-node) |
+| [0537-complex-number-multiplication](https://github.com/rahulpinto19/ds/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/rahulpinto19/ds/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulpinto19/ds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rahulpinto19/ds/tree/master/0633-sum-of-square-numbers) |

@@ -3,19 +3,9 @@ public:
     bool isOneBitCharacter(vector<int>& bits) {
         
         int ptr = 0;
-        while(ptr<bits.size()) {
+        while(ptr<bits.size()-1) {
 
-
-            if(bits[ptr] == 0) 
-            {
-                if(ptr == bits.size()-1) return true;
-                ptr++;
-                continue;
-            }
-            else {
-
-                ptr+=2;
-            }
+            ptr = bits[ptr] == 0 ? ptr+1 : ptr+2; 
         }
 
         return ptr == bits.size()-1;

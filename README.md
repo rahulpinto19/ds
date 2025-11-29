@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/rahulpinto19/ds/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rahulpinto19/ds/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/rahulpinto19/ds/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rahulpinto19/ds/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
@@ -781,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rahulpinto19/ds/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/rahulpinto19/ds/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rahulpinto19/ds/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rahulpinto19/ds/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Tree
 |  |
 | ------- |

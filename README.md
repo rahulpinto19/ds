@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rahulpinto19/ds/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rahulpinto19/ds/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulpinto19/ds/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3583-count-special-triplets](https://github.com/rahulpinto19/ds/tree/master/3583-count-special-triplets) |
 | [3639-zero-array-transformation-i](https://github.com/rahulpinto19/ds/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/rahulpinto19/ds/tree/master/3643-zero-array-transformation-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rahulpinto19/ds/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rahulpinto19/ds/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulpinto19/ds/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rahulpinto19/ds/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3583-count-special-triplets](https://github.com/rahulpinto19/ds/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rahulpinto19/ds/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rahulpinto19/ds/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/rahulpinto19/ds/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -907,6 +909,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulpinto19/ds/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulpinto19/ds/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/rahulpinto19/ds/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-count-special-triplets](https://github.com/rahulpinto19/ds/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rahulpinto19/ds/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |

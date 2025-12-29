@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/rahulpinto19/ds/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/rahulpinto19/ds/tree/master/0686-repeated-string-match) |
+| [0756-pyramid-transition-matrix](https://github.com/rahulpinto19/ds/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/rahulpinto19/ds/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/rahulpinto19/ds/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rahulpinto19/ds/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/rahulpinto19/ds/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0756-pyramid-transition-matrix](https://github.com/rahulpinto19/ds/tree/master/0756-pyramid-transition-matrix) |
 | [0816-design-hashset](https://github.com/rahulpinto19/ds/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rahulpinto19/ds/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -890,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/rahulpinto19/ds/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulpinto19/ds/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/rahulpinto19/ds/tree/master/0756-pyramid-transition-matrix) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rahulpinto19/ds/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rahulpinto19/ds/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rahulpinto19/ds/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1110,6 +1113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/rahulpinto19/ds/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/rahulpinto19/ds/tree/master/0257-binary-tree-paths) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulpinto19/ds/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/rahulpinto19/ds/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/rahulpinto19/ds/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rahulpinto19/ds/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rahulpinto19/ds/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |

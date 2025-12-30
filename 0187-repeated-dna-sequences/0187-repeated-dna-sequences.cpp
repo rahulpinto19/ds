@@ -1,0 +1,19 @@
+class Solution {
+public:
+    vector<string> findRepeatedDnaSequences(string s) {
+        
+        unordered_map<string,int>mp;
+        int n = s.size();
+        for(int i = 0;i<=n-10;i++) {
+            mp[s.substr(i,10)]++;
+        }
+        vector<string>ans;
+
+        for(auto x:mp) {
+            if(x.second >=2) {
+                ans.push_back(x.first);
+            }
+        }
+        return ans;
+    }
+};

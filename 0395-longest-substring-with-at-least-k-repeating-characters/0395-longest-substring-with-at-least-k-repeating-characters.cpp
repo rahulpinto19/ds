@@ -9,16 +9,19 @@ public:
         for(auto x:s) {
             freq[x-'a']++;
         }
+
         for(int i = 0;i<n;i++) {
 
-            if(freq[s[i] - 'a'] < k) {
+            if(freq[s[i]-'a'] < k) {
 
-                int left = longestSubstring(s.substr(0,i),k);
-                int right = longestSubstring(s.substr(i+1),k);
-
-                return max(left,right);
+                return max(
+                    longestSubstring(s.substr(0,i),k),
+                    longestSubstring(s.substr(i+1),k)
+                );
             }
+
         }
-        return n;
+        return n; 
+
     }
 };

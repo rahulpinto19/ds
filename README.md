@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/rahulpinto19/ds/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulpinto19/ds/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/rahulpinto19/ds/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/rahulpinto19/ds/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/rahulpinto19/ds/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/rahulpinto19/ds/tree/master/0257-binary-tree-paths) |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/rahulpinto19/ds/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/rahulpinto19/ds/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/rahulpinto19/ds/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/rahulpinto19/ds/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/rahulpinto19/ds/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/rahulpinto19/ds/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
@@ -887,6 +889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/rahulpinto19/ds/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/rahulpinto19/ds/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/rahulpinto19/ds/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/rahulpinto19/ds/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rahulpinto19/ds/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpinto19/ds/tree/master/0222-count-complete-tree-nodes) |
@@ -929,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulpinto19/ds/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/rahulpinto19/ds/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/rahulpinto19/ds/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rahulpinto19/ds/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1203,10 +1207,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rahulpinto19/ds/tree/master/0187-repeated-dna-sequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulpinto19/ds/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rahulpinto19/ds/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/rahulpinto19/ds/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/rahulpinto19/ds/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |

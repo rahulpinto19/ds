@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/rahulpinto19/ds/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/rahulpinto19/ds/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/rahulpinto19/ds/tree/master/0859-design-circular-deque) |
+| [0861-score-after-flipping-matrix](https://github.com/rahulpinto19/ds/tree/master/0861-score-after-flipping-matrix) |
 | [0878-shifting-letters](https://github.com/rahulpinto19/ds/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rahulpinto19/ds/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rahulpinto19/ds/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rahulpinto19/ds/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/rahulpinto19/ds/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rahulpinto19/ds/tree/master/0780-max-chunks-to-make-sorted) |
+| [0861-score-after-flipping-matrix](https://github.com/rahulpinto19/ds/tree/master/0861-score-after-flipping-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/rahulpinto19/ds/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1304-longest-happy-string](https://github.com/rahulpinto19/ds/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/rahulpinto19/ds/tree/master/1502-construct-k-palindrome-strings) |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/rahulpinto19/ds/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/rahulpinto19/ds/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/rahulpinto19/ds/tree/master/0854-making-a-large-island) |
+| [0861-score-after-flipping-matrix](https://github.com/rahulpinto19/ds/tree/master/0861-score-after-flipping-matrix) |
 | [0999-regions-cut-by-slashes](https://github.com/rahulpinto19/ds/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/rahulpinto19/ds/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rahulpinto19/ds/tree/master/1396-count-servers-that-communicate) |
@@ -918,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulpinto19/ds/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/rahulpinto19/ds/tree/master/0756-pyramid-transition-matrix) |
+| [0861-score-after-flipping-matrix](https://github.com/rahulpinto19/ds/tree/master/0861-score-after-flipping-matrix) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rahulpinto19/ds/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rahulpinto19/ds/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rahulpinto19/ds/tree/master/1786-count-the-number-of-consistent-strings) |

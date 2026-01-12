@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/rahulpinto19/ds/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rahulpinto19/ds/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rahulpinto19/ds/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/rahulpinto19/ds/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/rahulpinto19/ds/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rahulpinto19/ds/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulpinto19/ds/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahulpinto19/ds/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/rahulpinto19/ds/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulpinto19/ds/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/rahulpinto19/ds/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/rahulpinto19/ds/tree/master/0225-implement-stack-using-queues) |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rahulpinto19/ds/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rahulpinto19/ds/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/rahulpinto19/ds/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/rahulpinto19/ds/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rahulpinto19/ds/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/rahulpinto19/ds/tree/master/0733-flood-fill) |
@@ -987,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/rahulpinto19/ds/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rahulpinto19/ds/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rahulpinto19/ds/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/rahulpinto19/ds/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rahulpinto19/ds/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/rahulpinto19/ds/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/rahulpinto19/ds/tree/master/0118-pascals-triangle) |
@@ -1112,6 +1116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahulpinto19/ds/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/rahulpinto19/ds/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rahulpinto19/ds/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/rahulpinto19/ds/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/rahulpinto19/ds/tree/master/1002-maximum-width-ramp) |

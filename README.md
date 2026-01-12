@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/rahulpinto19/ds/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rahulpinto19/ds/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/rahulpinto19/ds/tree/master/2358-number-of-ways-to-split-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rahulpinto19/ds/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2411-spiral-matrix-iv](https://github.com/rahulpinto19/ds/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/rahulpinto19/ds/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rahulpinto19/ds/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rahulpinto19/ds/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rahulpinto19/ds/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rahulpinto19/ds/tree/master/2300-construct-string-with-repeat-limit) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rahulpinto19/ds/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rahulpinto19/ds/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/rahulpinto19/ds/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rahulpinto19/ds/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/rahulpinto19/ds/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rahulpinto19/ds/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rahulpinto19/ds/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rahulpinto19/ds/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rahulpinto19/ds/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rahulpinto19/ds/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rahulpinto19/ds/tree/master/2586-longest-square-streak-in-an-array) |
@@ -764,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rahulpinto19/ds/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rahulpinto19/ds/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/rahulpinto19/ds/tree/master/2358-number-of-ways-to-split-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rahulpinto19/ds/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2465-shifting-letters-ii](https://github.com/rahulpinto19/ds/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rahulpinto19/ds/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/rahulpinto19/ds/tree/master/3427-special-array-ii) |
@@ -1110,6 +1114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/rahulpinto19/ds/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rahulpinto19/ds/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rahulpinto19/ds/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rahulpinto19/ds/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rahulpinto19/ds/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/rahulpinto19/ds/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rahulpinto19/ds/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1144,6 +1149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1488-avoid-flood-in-the-city](https://github.com/rahulpinto19/ds/tree/master/1488-avoid-flood-in-the-city) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/rahulpinto19/ds/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rahulpinto19/ds/tree/master/2300-construct-string-with-repeat-limit) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rahulpinto19/ds/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2434-design-a-number-container-system](https://github.com/rahulpinto19/ds/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rahulpinto19/ds/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rahulpinto19/ds/tree/master/2616-maximal-score-after-applying-k-operations) |

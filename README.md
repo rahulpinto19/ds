@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/rahulpinto19/ds/tree/master/2868-continuous-subarrays) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rahulpinto19/ds/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rahulpinto19/ds/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3200-maximum-height-of-a-triangle](https://github.com/rahulpinto19/ds/tree/master/3200-maximum-height-of-a-triangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulpinto19/ds/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/rahulpinto19/ds/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rahulpinto19/ds/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1187,6 +1188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/rahulpinto19/ds/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rahulpinto19/ds/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3200-maximum-height-of-a-triangle](https://github.com/rahulpinto19/ds/tree/master/3200-maximum-height-of-a-triangle) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rahulpinto19/ds/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |

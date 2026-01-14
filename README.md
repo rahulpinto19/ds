@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/rahulpinto19/ds/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/rahulpinto19/ds/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rahulpinto19/ds/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3453-separate-squares-i](https://github.com/rahulpinto19/ds/tree/master/3453-separate-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rahulpinto19/ds/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulpinto19/ds/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3583-count-special-triplets](https://github.com/rahulpinto19/ds/tree/master/3583-count-special-triplets) |
@@ -806,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/rahulpinto19/ds/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/rahulpinto19/ds/tree/master/2716-prime-subtraction-operation) |
 | [3427-special-array-ii](https://github.com/rahulpinto19/ds/tree/master/3427-special-array-ii) |
+| [3453-separate-squares-i](https://github.com/rahulpinto19/ds/tree/master/3453-separate-squares-i) |
 | [3643-zero-array-transformation-ii](https://github.com/rahulpinto19/ds/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |

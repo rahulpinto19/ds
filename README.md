@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3075-maximize-happiness-of-selected-children](https://github.com/rahulpinto19/ds/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3200-maximum-height-of-a-triangle](https://github.com/rahulpinto19/ds/tree/master/3200-maximum-height-of-a-triangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulpinto19/ds/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/rahulpinto19/ds/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/rahulpinto19/ds/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rahulpinto19/ds/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/rahulpinto19/ds/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -965,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rahulpinto19/ds/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulpinto19/ds/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rahulpinto19/ds/tree/master/2792-neighboring-bitwise-xor) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/rahulpinto19/ds/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rahulpinto19/ds/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/rahulpinto19/ds/tree/master/3394-minimum-array-end) |
 ## Counting

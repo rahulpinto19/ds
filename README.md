@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/rahulpinto19/ds/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/rahulpinto19/ds/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/rahulpinto19/ds/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/rahulpinto19/ds/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rahulpinto19/ds/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Greedy
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/rahulpinto19/ds/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/rahulpinto19/ds/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/rahulpinto19/ds/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/rahulpinto19/ds/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Sorting
 |  |
 | ------- |
@@ -515,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/rahulpinto19/ds/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rahulpinto19/ds/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rahulpinto19/ds/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/rahulpinto19/ds/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Stack
 |  |
 | ------- |
@@ -1182,6 +1185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/rahulpinto19/ds/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulpinto19/ds/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/rahulpinto19/ds/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/rahulpinto19/ds/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3863-power-grid-maintenance](https://github.com/rahulpinto19/ds/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |

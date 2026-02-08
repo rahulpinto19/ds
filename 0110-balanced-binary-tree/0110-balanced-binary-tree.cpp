@@ -11,19 +11,22 @@
  */
 class Solution {
 public:
-    int depth(TreeNode*root)
-    {
+    int help(TreeNode*root,bool &balanced) {
+
         if(!root)return 0;
+        if(!balanced) return 0;
 
-        return max(depth(root->left),depth(root->right)) + 1;
+        int left = help(root->left,balanced);
+        int right = help(root->right,balanced);
+
+        if(abs(left - right) > 1) balanced = false;
+        return 1 + max(help(root->left,balanced),help(root->right,balanced));
     }
-    bool isBalanced(TreeNode* root) 
-    {
-        if(!root) return 1;
-        int left = depth(root->left);
-        int right = depth(root->right);
+    bool isBalanced(TreeNode* root) {
+        
+        bool balnced = true;
+        help(root,balnced);
 
-
-        return abs(left-right) <=1 and isBalanced(root->left) and isBalanced(root->right);
+        return balnced;
     }
 };

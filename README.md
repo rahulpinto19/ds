@@ -978,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/rahulpinto19/ds/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rahulpinto19/ds/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/rahulpinto19/ds/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/rahulpinto19/ds/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulpinto19/ds/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/rahulpinto19/ds/tree/master/0756-pyramid-transition-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/rahulpinto19/ds/tree/master/0861-score-after-flipping-matrix) |

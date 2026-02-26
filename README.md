@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1027-sum-of-even-numbers-after-queries](https://github.com/rahulpinto19/ds/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1119-robot-bounded-in-circle](https://github.com/rahulpinto19/ds/tree/master/1119-robot-bounded-in-circle) |
 | [1184-car-pooling](https://github.com/rahulpinto19/ds/tree/master/1184-car-pooling) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rahulpinto19/ds/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rahulpinto19/ds/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/rahulpinto19/ds/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rahulpinto19/ds/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/rahulpinto19/ds/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rahulpinto19/ds/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rahulpinto19/ds/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rahulpinto19/ds/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1502-construct-k-palindrome-strings](https://github.com/rahulpinto19/ds/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rahulpinto19/ds/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/rahulpinto19/ds/tree/master/1524-string-matching-in-an-array) |
@@ -983,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0756-pyramid-transition-matrix](https://github.com/rahulpinto19/ds/tree/master/0756-pyramid-transition-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/rahulpinto19/ds/tree/master/0861-score-after-flipping-matrix) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rahulpinto19/ds/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rahulpinto19/ds/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rahulpinto19/ds/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rahulpinto19/ds/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/rahulpinto19/ds/tree/master/1860-find-kth-largest-xor-coordinate-value) |

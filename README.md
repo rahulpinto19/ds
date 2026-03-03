@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1119-robot-bounded-in-circle](https://github.com/rahulpinto19/ds/tree/master/1119-robot-bounded-in-circle) |
 | [1184-car-pooling](https://github.com/rahulpinto19/ds/tree/master/1184-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rahulpinto19/ds/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/rahulpinto19/ds/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rahulpinto19/ds/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/rahulpinto19/ds/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rahulpinto19/ds/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rahulpinto19/ds/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/rahulpinto19/ds/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rahulpinto19/ds/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/rahulpinto19/ds/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rahulpinto19/ds/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/rahulpinto19/ds/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rahulpinto19/ds/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1097,6 +1099,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulpinto19/ds/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/rahulpinto19/ds/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/rahulpinto19/ds/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/rahulpinto19/ds/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rahulpinto19/ds/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |

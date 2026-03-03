@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/rahulpinto19/ds/tree/master/1477-product-of-the-last-k-numbers) |
 | [1488-avoid-flood-in-the-city](https://github.com/rahulpinto19/ds/tree/master/1488-avoid-flood-in-the-city) |
 | [1524-string-matching-in-an-array](https://github.com/rahulpinto19/ds/tree/master/1524-string-matching-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahulpinto19/ds/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahulpinto19/ds/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/rahulpinto19/ds/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahulpinto19/ds/tree/master/1552-magnetic-force-between-two-balls) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1382-balance-a-binary-search-tree](https://github.com/rahulpinto19/ds/tree/master/1382-balance-a-binary-search-tree) |
 | [1488-avoid-flood-in-the-city](https://github.com/rahulpinto19/ds/tree/master/1488-avoid-flood-in-the-city) |
 | [1502-construct-k-palindrome-strings](https://github.com/rahulpinto19/ds/tree/master/1502-construct-k-palindrome-strings) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahulpinto19/ds/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rahulpinto19/ds/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rahulpinto19/ds/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rahulpinto19/ds/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -573,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rahulpinto19/ds/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1396-count-servers-that-communicate](https://github.com/rahulpinto19/ds/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rahulpinto19/ds/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahulpinto19/ds/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rahulpinto19/ds/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/rahulpinto19/ds/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/rahulpinto19/ds/tree/master/1876-map-of-highest-peak) |

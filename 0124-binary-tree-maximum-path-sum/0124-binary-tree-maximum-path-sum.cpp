@@ -12,27 +12,25 @@
 class Solution {
 public:
     int ans = INT_MIN;
-    int help(TreeNode*root)
-    {
-        if(!root) return 0;
+    int help(TreeNode*root) {
+                if(!root) return 0;
 
         int left = help(root->left);
         int right = help(root->right);
 
-        int bothLeftRight = left + right + root->val;
 
-        int LeftOrRight = max(left,right) + root->val;
+        int blr = root->val + left + right;
+        int lor = root->val + max(left,right);
+        int oR = root->val;
 
-        int onlyRoot = root->val;
+        ans = max({ans,oR,lor,blr});
 
-        ans = max({ans,bothLeftRight,LeftOrRight,onlyRoot});
-
-        return max({LeftOrRight,onlyRoot});
-
+        return max(lor,oR);
     }
-    int maxPathSum(TreeNode* root) 
-    {
+    int maxPathSum(TreeNode* root) {
+
         help(root);
         return ans;
+
     }
 };

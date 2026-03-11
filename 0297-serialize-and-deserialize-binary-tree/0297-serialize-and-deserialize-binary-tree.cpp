@@ -21,83 +21,77 @@ public:
     }
 
     return result;
-}
-    string convert(int number)
-    {
-        return to_string(number);
     }
-    string serialize(TreeNode* root) 
-    {
+    string serialize(TreeNode* root) {
+        
         if(!root) return "";
 
-        string serialized = "";
+        string str = "";;
         queue<TreeNode*>q;
         q.push(root);
-        serialized+= convert(root->val);
-        serialized+=',';
-        while(q.size())
-        {
+        str+=to_string(root->val);
+        str+=',';
+        while(q.size()) {
+
             int size = q.size();
-            while(size --)
-            {
-                TreeNode* top = q.front();
+            while(size--) {
+                TreeNode*top = q.front();
                 q.pop();
-                
-                if(top->left)
-                {
+
+
+                if(top->left) {
                     q.push(top->left);
-                    serialized+= convert(top->left->val);
-                    serialized+=',';
+                    str+=to_string(top->left->val);
+                    str+=',';
+
+                }else{
+                    str+="#,";
                 }
-                else
-                {
-                    serialized+= '#';
-                    serialized+=',';
-                } 
-                if(top->right)
-                {
+                
+                if(top->right) {
                     q.push(top->right);
-                    serialized+= convert(top->right->val);
-                    serialized+=',';
+                    str+=to_string(top->right->val);
+                    str+=',';
+                } else{
+                    str+="#,";
                 }
-                else
-                {
-                    serialized+= '#';
-                    serialized+=',';
-                } 
             }
         }
-        return serialized;
+        cout<<str;
+        return str;
     }
 
     // Decodes your encoded data to tree.
-    TreeNode* deserialize(string data) 
-    {
-        vector<string>parsedValues = splitString(data,',');
-        if(parsedValues.size() == 0 || parsedValues[0] == "#") return NULL;
+    TreeNode* deserialize(string data) {
+        vector<string>nodes = splitString(data,',');
 
-        int number = stoi(parsedValues[0]);
-        
-        
-        TreeNode*root = new TreeNode(number);
+        if(nodes.size() == 0 or nodes[0] == "#") return NULL;
+
+        TreeNode*root = new TreeNode(stoi(nodes[0]));
         queue<TreeNode*>q;
         q.push(root);
+
         int ptr = 0;
-        while(q.size())
-        {
+        while(q.size()) {
+
             int size = q.size();
-            while(size--)
-            {
-                TreeNode*top = q.front();
+            while(size--) {
+
+                TreeNode*curr = q.front();
                 q.pop();
                 ptr+=1;
-                if(parsedValues[ptr] == "#") top->left = NULL;
-                else {top->left = new TreeNode(stoi(parsedValues[ptr])); q.push(top->left);}
-                ptr+=1; 
-                if(parsedValues[ptr] == "#") top->right = NULL;
-                else {top->right = new TreeNode(stoi(parsedValues[ptr])); q.push(top->right);}
+                if(nodes[ptr] != "#") {
+                    curr->left = new TreeNode(stoi(nodes[ptr])); 
+                    q.push(curr->left);
+                }
+                ptr+=1;
+                if(nodes[ptr] != "#") {
+                    curr->right = new TreeNode(stoi(nodes[ptr]));
+                    q.push(curr->right);
+
+                }
             }
-        } 
+        }
         return root;
     }
 };

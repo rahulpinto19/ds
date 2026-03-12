@@ -1406,6 +1406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rahulpinto19/ds/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/rahulpinto19/ds/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/rahulpinto19/ds/tree/master/0841-keys-and-rooms) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/rahulpinto19/ds/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |

@@ -1,44 +1,39 @@
 class Solution {
 public:
-    bool isCyclic(int V, vector<vector<int>> adj) 
-    {
-        int cnt = 0;
-        vector<int>indegree(V,0);
-        for(int i = 0;i<V;i++)
-        {
-            for(auto node:adj[i])
-                indegree[node]++;
-        }
-        queue<int>q;
-        for(int i=0;i<V;i++)
-        {
-            if(indegree[i] == 0) q.push(i);
-        }
-        
-        while(q.size())
-        {
-            int node = q.front();
-            q.pop();
-            cnt++;
-            for(auto neighbour:adj[node])
-            {
-                indegree[neighbour]--;
-                if(indegree[neighbour] == 0)
-                {
-                    q.push(neighbour);
-                }
+    vector<vector<int>>adj;
+    bool isCyclic(int v) {
+
+        vector<int>indegree(v,0);
+        for(auto x:adj){
+            for(auto nbr:x) {
+                indegree[nbr]++;
             }
         }
-        return !(cnt == V);
+
+        queue<int>q;
+        for(int i = 0;i<v;i++) {
+            if(indegree[i] == 0)q.push(i);
+        }
+        int edge = 0;
+        while(!q.empty()) {
+
+            auto curr = q.front();q.pop();
+            edge++;
+            for(auto nbr:adj[curr]) {
+                
+                indegree[nbr]--;
+                if(indegree[nbr] == 0) q.push(nbr);
+            }
+
+        }
+        return !(v==edge);
     }
-    bool canFinish(int n, vector<vector<int>>& p) 
-    {
-        
-        vector<vector<int>>adj(n+1);
-        for(auto x:p)
-        {
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        adj.resize(numCourses);
+
+        for(auto x:prerequisites) {
             adj[x[0]].push_back(x[1]);
         }
-        return !(isCyclic(n,adj));    
+        return !isCyclic(numCourses);
     }
 };
